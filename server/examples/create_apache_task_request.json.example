@@ -1,0 +1,12 @@
+{
+    "agentType": "web",
+    "pluginClassName": "ApachePlugin",
+    "pluginFileName": "ApachePlugin",
+    "taskConf": {
+                    "status_url": "http://127.0.0.1/status",
+                    "user": "apache",
+                    "password" : "apache", 
+                    "pluginTime": 30
+                },
+    "host_mac": "00:0e:c6:c5:1b:56"
+}

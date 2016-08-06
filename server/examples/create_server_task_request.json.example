@@ -1,0 +1,10 @@
+{
+    "agentType": "server",
+    "pluginClassName": "ServerPlugin",
+    "pluginFileName": "ServerPlugin",
+    "taskConf": {
+                    "type": ["cpu", "mem", "diskio", "diskstore", "netio", "procsum"],
+                    "pluginTime": 30
+                },
+    "host_mac": "00:0e:c6:c5:1b:56"
+}

@@ -1,0 +1,11 @@
+{
+    "agentType": "database",
+    "pluginClassName": "MongoPlugin",
+    "pluginFileName": "MongoPlugin",
+    "taskConf": {
+                    "host": "127.0.0.1",
+                    "port": 27017,
+                    "pluginTime": 30
+                },
+    "host_mac": "00:0e:c6:c5:1b:56"
+}

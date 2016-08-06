@@ -1,0 +1,13 @@
+{
+    "agentType": "web",
+    "pluginClassName": "TomcatPlugin",
+    "pluginFileName": "TomcatPlugin",
+    "taskConf": {
+                    "status_url": "http://127.0.0.1/status",
+                    "user": "tomcat",
+                    "password" : "tomcat",
+                    "appname": "http-io-8090",
+                    "pluginTime": 30
+                },
+    "host_mac": "00:0e:c6:c5:1b:56"
+}
