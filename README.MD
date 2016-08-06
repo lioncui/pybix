@@ -14,7 +14,7 @@
 
 ### Topology
 
-![Alt text](https://github.com/lioncui/Topology.jpg)
+![Alt text](./Topology.jpg)
 
 ### Install and Run test (all-in-one)
 
